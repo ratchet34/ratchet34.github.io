@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.26334fc0.css",
-    "main.js": "/static/js/main.0c7a8c4b.js",
+    "main.css": "/static/css/main.c0a354c5.css",
+    "main.js": "/static/js/main.9def4564.js",
+    "static/media/2b.jpg": "/static/media/2b.af005d7ca830fd800d08.jpg",
     "static/media/factorio-wheel.png": "/static/media/factorio-wheel.bd54b2ce4ace4add069f.png",
     "static/media/event.jpg": "/static/media/event.8c6257e95f90fad6f636.jpg",
     "index.html": "/index.html",
-    "main.26334fc0.css.map": "/static/css/main.26334fc0.css.map",
-    "main.0c7a8c4b.js.map": "/static/js/main.0c7a8c4b.js.map"
+    "main.c0a354c5.css.map": "/static/css/main.c0a354c5.css.map",
+    "main.9def4564.js.map": "/static/js/main.9def4564.js.map"
   },
   "entrypoints": [
-    "static/css/main.26334fc0.css",
-    "static/js/main.0c7a8c4b.js"
+    "static/css/main.c0a354c5.css",
+    "static/js/main.9def4564.js"
   ]
 }
